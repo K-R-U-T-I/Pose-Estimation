@@ -1,4 +1,6 @@
-# Pose-Estimation
+# Pose Estimation
+
+33 different landmarks within a human body are detected.
 
 
 ## Libraries used
